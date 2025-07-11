@@ -9,7 +9,7 @@ A simple web app that predicts whether a student is likely to be **placed** usin
 - Built with: Streamlit, Scikit-learn, Pandas, Seaborn
 
 ## 🚀 Try it Online
-👉 [Launch the App](https://studentpred-mqnns9lg7cwpnwkafdckfm.streamlit.app/)
+👉 [Launch the App](https://studentpred2-e5y45qjnd5cpftvaoeyqeh.streamlit.app/)
 
 ## 📦 Run Locally
 ```bash
